@@ -3,6 +3,10 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
+.srk{
+  border: 3px solid rgb(44, 27, 197);
+  padding: 5px;
+}
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
